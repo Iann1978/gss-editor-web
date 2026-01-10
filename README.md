@@ -3,5 +3,5 @@
 
 
 ## Tutorial
-* [Position and Orientation Adjust](pos-adjust.mp4)
+* [Position and Orientation Adjust](doc/pos-adjust.mp4)
 
